@@ -1,0 +1,50 @@
+H2 { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold; font-size: 125%
+}
+	
+H3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 110%
+}
+	
+H4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 100%
+}
+	
+H5 {
+	font-family: Times New Roman, serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 100%
+}
+	
+H6 {
+	font-family: Times New Roman, serif;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 100%
+}
+	
+.sitemenu {
+	line-height: 120%;
+}
+	
+P.heading {
+	font-family: Verdana, Arial, Helvetica, sans-serif
+}
+	
+A:hover {
+	color: #990000
+}td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt}
